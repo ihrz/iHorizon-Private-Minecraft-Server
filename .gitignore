@@ -28,3 +28,8 @@ replay_pid*
 libraries
 cache
 versions
+world*
+usercache.json
+ops.json
+logs
+banned-*
