@@ -36,3 +36,4 @@ banned-*
 plugins/Essentials/userdata
 whitelist.json
 plugins/LuckPerms/editor-keystore.json
+plugins/EssentialsDiscord/config.yml
