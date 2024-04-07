@@ -33,3 +33,5 @@ usercache.json
 ops.json
 logs
 banned-*
+plugins/Essentials/userdata
+whitelist.json
